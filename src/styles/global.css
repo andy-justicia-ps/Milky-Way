@@ -7,7 +7,7 @@
     --text-light: #1e1e2e; 
     --text-link: #78c2ad;
     --underline: #375a7f;
-    --header: 'Pacifico', cursive;
+    --header: 'Kalam', cursive;
     --body: 'Josefin Sans', sans-serif; 
 }
 
@@ -99,7 +99,7 @@ small, li {
     border-radius: 6px;
     font-family: var(--body);
     font-weight: 600;
-    font-size: .85rem;
+    font-size: 1rem;
     padding: 0.3em 0.6em 0.2em;
 }
 
